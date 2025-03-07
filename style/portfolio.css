@@ -8,6 +8,10 @@
 
   /* shared style */
 
+.bg-secondary{
+    background-color: #FFF8F3;
+}
+
 .text-primary{
     color: #FD6E0A;
 }
@@ -19,6 +23,15 @@
     border: none;
     font-weight: bold;
     font-size: 20px;
+}
+
+.section-title{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.section-description{
+    font-size: 18px;
 }
 
 .dark-2{
